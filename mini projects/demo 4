@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+   <h2>HTML Article on Inserting image to the web page</h2>
+   <img src="https://www.tutorialspoint.com/javafx/images/javafx-mini-logo.jpg">
+</body>
+</html>
