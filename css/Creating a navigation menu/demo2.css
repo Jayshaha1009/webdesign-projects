@@ -1,0 +1,18 @@
+/* Create a horizontal navigation menu */
+nav {
+  display: flex;
+}
+
+/* Style the links in the navigation menu */
+nav a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: #333;
+}
+
+/* Add a background color to the active link */
+nav a.active {
+  background-color: #333;
+  color: #fff;
+}

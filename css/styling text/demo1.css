@@ -1,0 +1,16 @@
+/* Change the font size and color of all paragraphs */
+p {
+  font-size: 16px;
+  color: #333;
+}
+
+/* Add a bold font weight to headings */
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+/* Change the color and background color of links on hover */
+a:hover {
+  color: #fff;
+  background-color: #333;
+}

@@ -1,0 +1,16 @@
+/* Set the width of the main content area */
+.main-content {
+  width: 80%;
+  margin: 0 auto;
+}
+
+/* Create a two-column layout for small screens */
+@media screen and (max-width: 600px) {
+  .main-content {
+    width: 100%;
+  }
+  
+  .sidebar {
+    display: none;
+  }
+}
